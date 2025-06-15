@@ -1,0 +1,10 @@
+## What i Learn 
+how to built cal .try and catch error .
+
+## Anything New
+  - grid-template-columns: repeat(4,1fr);/* 4 columns  and 1       fractional  unit*/
+  - hs1 which is used to  take  percentage of color .
+
+## Mistakes i made here
+ - i am confusing in basic tag like <link rel > is used css link and <script src > is used in js 
+ - some Mistakes in css u need to improve 

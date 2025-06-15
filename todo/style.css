@@ -1,0 +1,29 @@
+#items{
+    background-color: coral;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 50 px;
+    padding: 50 px;
+    margin-top: 30 px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    background-color:whitesmoke;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    color:rgb(22, 20, 11);
+    background-color: #B3D234;
+}
+body{
+    background-color: #E0FFE0
+}
+
